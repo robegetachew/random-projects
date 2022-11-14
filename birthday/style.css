@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #6f62d0;
+  
+}
+h1 {
+  font-size: 6rem;
+  color: black;
+  margin: 20 20;
+  align-content: center;
+}
+.confetti{
+   max-width: 640px;
+   display: block;
+   margin: 0 auto;
+   
+   user-select: none;
+}
+.bottom-container{
+  font-size: 4rem;
+  align-self: center;
+}
